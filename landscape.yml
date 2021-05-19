@@ -1,0 +1,25 @@
+landscape:
+  - category:
+    name: SBOM SPDX Adopter
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Adobe (Adopter)
+            homepage_url: https://www.adobe.com/
+            logo: adobe.svg
+            crunchbase: https://www.crunchbase.com/organization/adobe
+  - category:
+    name: SBOM SPDX Tools
+    subcategories:
+      - subcategory:
+        name: SBOM SPDX Tools
+        items:
+          - item:
+            name: Docsy
+            homepage_url: https://www.docsy.dev/
+            repo_url: https://github.com/google/docsy
+            logo: docsy.svg
+            twitter: https://twitter.com/docsydocs
+            crunchbase: https://www.crunchbase.com/organization/google
