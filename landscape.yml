@@ -23,3 +23,10 @@ landscape:
             logo: docsy.svg
             twitter: https://twitter.com/docsydocs
             crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: REUSE
+            homepage_url: https://reuse.software/
+            repo_url: https://git.fsfe.org/reuse/tool
+            logo: reuse.svg
+            twitter: https://twitter.com/fsfe
+            crunchbase: https://www.crunchbase.com/organization/free-software-foundation-europe
