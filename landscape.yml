@@ -24,6 +24,13 @@ landscape:
             twitter: https://twitter.com/docsydocs
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
+            name: OSS Review Toolkit
+            homepage_url: https://oss-review-toolkit.org/
+            repo_url: https://github.com/oss-review-toolkit/ort
+            logo: oss-review-toolkit.svg
+            twitter: https://twitter.com/linuxfoundation
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
             name: REUSE
             homepage_url: https://reuse.software/
             repo_url: https://git.fsfe.org/reuse/tool
