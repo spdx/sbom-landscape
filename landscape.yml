@@ -37,3 +37,10 @@ landscape:
             logo: reuse.svg
             twitter: https://twitter.com/fsfe
             crunchbase: https://www.crunchbase.com/organization/free-software-foundation-europe
+          - item:
+            name: Syft
+            homepage_url: https://anchore.com/opensource/
+            repo_url: https://github.com/anchore/syft
+            logo: syft.svg
+            twitter: https://twitter.com/anchore
+            crunchbase: https://www.crunchbase.com/organization/anchore-inc
