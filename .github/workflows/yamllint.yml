@@ -1,6 +1,8 @@
 # SPDX-License-Identifier: Apache-2.0
 # SPDX-FileCopyrightText: 2021 Sebastian Crane <seabass-labrax@gmx.com>
 
+%YAML 1.1
+---
 name: Lint YAML files
 
 on:
