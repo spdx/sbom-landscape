@@ -44,3 +44,8 @@ landscape:
             logo: syft.svg
             twitter: https://twitter.com/anchore
             crunchbase: https://www.crunchbase.com/organization/anchore-inc
+          - item:
+            name: Tern
+            homepage_url: https://github.com/tern-tools/tern
+            repo_url: https://github.com/tern-tools/tern
+            logo: tern.svg
