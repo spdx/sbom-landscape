@@ -32,16 +32,11 @@ Please see [landscape.spdx.dev](https://landscape.spdx.dev).
 
 ## New Entries
 
-* OSPOs must have a public facing site (e.g., https://opensource.microsoft.com or https://opensource.google or https://twitter.github.io)
-* Projects must be open source and hosted on or mirrored to GitHub.
-* Projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
-* We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
-* Your project or company needs a logo and the logo needs to include the name.
-* Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
+Thank you for your interest in improving the SBOM Landscape! If you know of SPDX-compatible software that consumes, produces or processes Software Bill of Materials, then we'd love to add it to the SBOM Landscape.
 
-If you think your project should be included, please open a pull request to add it to [landscape.yml](landscape.yml). For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
+Please let us know about such potential additions by [filing an issue on GitHub](https://github.com/spdx/sbom-landscape/issues), or sending an email to the [`spdx-outreach` mailing list](https://lists.spdx.org/g/Spdx-outreach). If you'd like to contribute directly, please read the instructions in this README and [make a pull request on GitHub](https://github.com/spdx/sbom-landscape/pulls).
 
-Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add `LGTM` to the pull request confirming your review and requesting a merge.
+After each pull request is made, the changes are automatically tested to make sure that the SBOM Landscape page is generated correctly. A staging server is also started so that we can make sure that the information appears correctly.
 
 ## Logos
 
