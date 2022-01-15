@@ -790,6 +790,419 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-04-07T15:30:31.000Z
+          - item:
+            name: OSS Review Toolkit
+            homepage_url: https://oss-review-toolkit.org/
+            repo_url: https://github.com/oss-review-toolkit/ort
+            logo: oss-review-toolkit.svg
+            twitter: https://twitter.com/linuxfoundation
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            crunchbase_data:
+              name: Linux Foundation
+              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.linuxfoundation.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/linuxfoundation
+              linkedin: https://www.linkedin.com/company/the-linux-foundation
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Communities
+                - Education
+                - Enterprise Software
+                - Events
+                - Information Technology
+                - Linux
+                - Non Profit
+                - Open Source
+            github_data:
+              languages:
+                - name: Kotlin
+                  value: 3947952
+                  color: '#F18E33'
+                - name: JavaScript
+                  value: 291650
+                  color: '#f1e05a'
+                - name: HTML
+                  value: 115254
+                  color: '#e34c26'
+                - name: Haskell
+                  value: 30438
+                  color: '#5e5086'
+                - name: CSS
+                  value: 25058
+                  color: '#563d7c'
+                - name: Python
+                  value: 20673
+                  color: '#3572A5'
+                - name: FreeMarker
+                  value: 20565
+                  color: '#0050b2'
+                - name: Dockerfile
+                  value: 7796
+                  color: '#384d54'
+                - name: Shell
+                  value: 7795
+                  color: '#89e051'
+                - name: Roff
+                  value: 7585
+                  color: '#ecdebe'
+                - name: Scala
+                  value: 6656
+                  color: '#c22d40'
+                - name: Ruby
+                  value: 4423
+                  color: '#701516'
+                - name: ANTLR
+                  value: 1883
+                  color: '#9DC3FF'
+                - name: Go
+                  value: 1235
+                  color: '#00ADD8'
+                - name: Rust
+                  value: 280
+                  color: '#dea584'
+                - name: Emacs Lisp
+                  value: 191
+                  color: '#c065db'
+              contributions: >-
+                2;0;41;19;34;39;53;57;46;82;61;59;66;54;23;55;70;57;53;60;45;69;26;41;51;44;56;34;30;18;4;27;31;33;24;50;40;49;42;46;68;67;41;18;42;61;28;66;77;105;73;73
+              firstWeek: 2020-12-27Z
+              stars: 617
+              license: Apache License 2.0
+              description: A suite of tools to assist with reviewing Open Source Software dependencies.
+              latest_commit_date: '2021-12-20T07:35:48Z'
+              latest_commit_link: /oss-review-toolkit/ort/commit/4493749a8d11cf75d9374da6df48edbf83eeffe7
+              contributors_count: 53
+              contributors_link: https://github.com/oss-review-toolkit/ort/graphs/contributors
+            repos:
+              - url: https://github.com/oss-review-toolkit/ort
+                stars: 617
+            github_start_commit_data:
+              start_commit_link: /oss-review-toolkit/ort/commit/0b17041c9e6c38fb7af1d3d51232de2869610ac7
+              start_date: '2017-03-27T12:54:50Z'
+            image_data:
+              fileName: oss-review-toolkit.svg
+              hash: eGBbFLE+e+KxNzXSCQKAzUY/0Yxt8Yq4CUm+aMnddt8=
+            best_practice_data:
+              badge: 4618
+              percentage: 73
+            twitter_data:
+              latest_tweet_date: 2021-12-20T07:28:14.000Z
+          - item:
+            name: REUSE
+            homepage_url: https://reuse.software/
+            repo_url: https://git.fsfe.org/reuse/tool
+            logo: reuse.svg
+            twitter: https://twitter.com/fsfe
+            crunchbase: https://www.crunchbase.com/organization/free-software-foundation-europe
+            crunchbase_data:
+              name: Free Software Foundation Europe
+              description: FSFE can provide assistance, information, and expertise on a wide variety of issues relating to Free Software.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://fsfe.org
+              city: Berlin
+              region: Berlin
+              country: Germany
+              twitter: https://twitter.com/fsfe
+              linkedin: https://www.linkedin.com/company/91486
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Non Profit
+                - Software
+            repos:
+              - url: https://git.fsfe.org/reuse/tool
+            image_data:
+              fileName: reuse.svg
+              hash: TIEKqViKKCotawfT8mgjz1Sz3bUjfopQNfjkMNFCOXE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-17T09:14:00.000Z
+          - item:
+            name: Syft
+            homepage_url: https://anchore.com/opensource/
+            repo_url: https://github.com/anchore/syft
+            logo: syft.svg
+            twitter: https://twitter.com/anchore
+            crunchbase: https://www.crunchbase.com/organization/anchore-inc
+            crunchbase_data:
+              name: Anchore
+              description: Anchore helps organizations implement secure container-based workflows without compromising velocity.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://anchore.com/
+              city: Santa Barbara
+              region: California
+              country: United States
+              twitter: https://twitter.com/anchore
+              linkedin: https://www.linkedin.com/company/anchore
+              acquisitions: []
+              parents: []
+              funding: 29000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Security
+                - Computer
+                - Enterprise Software
+                - Information Technology
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: Go
+                  value: 977031
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 33093
+                  color: '#89e051'
+                - name: Makefile
+                  value: 14111
+                  color: '#427819'
+                - name: Ruby
+                  value: 9073
+                  color: '#701516'
+                - name: Python
+                  value: 7652
+                  color: '#3572A5'
+                - name: Java
+                  value: 6170
+                  color: '#b07219'
+                - name: Dockerfile
+                  value: 5181
+                  color: '#384d54'
+                - name: HCL
+                  value: 446
+                - name: HTML
+                  value: 132
+                  color: '#e34c26'
+                - name: Roff
+                  value: 112
+                  color: '#ecdebe'
+                - name: C
+                  value: 107
+                  color: '#555555'
+                - name: Vim script
+                  value: 16
+                  color: '#199f4b'
+              contributions: 10;0;14;0;5;4;11;2;4;5;0;7;24;30;8;17;28;22;1;2;2;0;6;9;1;4;4;8;0;2;0;0;0;5;6;3;3;2;4;6;5;10;6;12;10;8;7;7;3;10;5;8
+              firstWeek: 2020-12-27Z
+              stars: 1472
+              license: Apache License 2.0
+              description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+              latest_commit_date: '2021-12-16T13:55:53Z'
+              latest_commit_link: /anchore/syft/commit/a27907659d6c43f5bef2f76a9e381f2bf697a64f
+              release_date: '2021-12-16T14:27:25Z'
+              release_link: https://github.com/anchore/syft/releases
+              contributors_count: 25
+              contributors_link: https://github.com/anchore/syft/graphs/contributors
+            repos:
+              - url: https://github.com/anchore/syft
+                stars: 1472
+            github_start_commit_data:
+              start_commit_link: /anchore/syft/commit/fcddceb9659c7f056554a83cb8cab4abb5009cc0
+              start_date: '2020-05-07T18:19:31Z'
+            image_data:
+              fileName: syft.svg
+              hash: PHexzzxIwHbxyAJOUHhSSaX4Iem5DLA2Iwd807aN0RM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-17T17:00:59.000Z
+          - item:
+            name: Tern
+            homepage_url: https://github.com/tern-tools/tern
+            repo_url: https://github.com/tern-tools/tern
+            logo: tern.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
+            crunchbase_data:
+              name: VMware
+              description: VMware is a software company providing cloud and virtualization services that powers complex digital infrastructure.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.vmware.com
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: http://twitter.com/VMware
+              linkedin: https://www.linkedin.com/company/vmware
+              acquisitions:
+                - date: '2003-12-16'
+                  acquiree: Emic Networks
+                - date: '2006-06-18'
+                  acquiree: Akimbi Systems
+                - date: '2007-08-06'
+                  acquiree: Determina
+                - date: '2007-09-11'
+                  acquiree: Dunes Technologies
+                - date: '2008-01-15'
+                  acquiree: Thinstall inc
+                - date: '2008-05-28'
+                  acquiree: B-hive Networks
+                - date: '2008-11-30'
+                  acquiree: Blue Lane Technologies
+                - date: '2009-08-10'
+                  acquiree: Spring
+                  price: 362000000
+                - date: '2010-08-31'
+                  acquiree: Integrien
+                - date: '2010-08-31'
+                  acquiree: TriCipher
+                  price: 100000000
+                - date: '2011-03-08'
+                  acquiree: WaveMaker
+                - date: '2011-04-26'
+                  acquiree: SlideRocket
+                - date: '2011-05-16'
+                  acquiree: Shavlik Technologies
+                - date: '2011-05-31'
+                  acquiree: Socialcast
+                - date: '2011-06-13'
+                  acquiree: Digital Fuel
+                - date: '2011-08-01'
+                  acquiree: Packetmotion
+                - date: '2012-05-22'
+                  acquiree: Wanova
+                - date: '2012-07-02'
+                  acquiree: DynamicOps
+                - date: '2012-07-23'
+                  acquiree: Nicira Networks
+                  price: 1260000000
+                - date: '2013-02-11'
+                  acquiree: Virsto Software
+                - date: '2013-10-15'
+                  acquiree: Desktone
+                - date: '2014-01-22'
+                  acquiree: AirWatch
+                  price: 1540000000
+                - date: '2014-08-20'
+                  acquiree: CloudVolumes
+                - date: '2015-02-03'
+                  acquiree: Immidio
+                - date: '2015-10-14'
+                  acquiree: Boxer
+                - date: '2016-06-13'
+                  acquiree: Arkin
+                - date: '2016-12-20'
+                  acquiree: PLUMgrid
+                - date: '2017-04-12'
+                  acquiree: Wavefront
+                  price: 375000000
+                - date: '2017-05-15'
+                  acquiree: Apteligent
+                  price: 50000000
+                - date: '2017-11-02'
+                  acquiree: VeloCloud
+                - date: '2018-02-14'
+                  acquiree: CloudCoreo
+                - date: '2018-02-22'
+                  acquiree: CloudVelox
+                - date: '2018-03-28'
+                  acquiree: E8 Security
+                - date: '2018-08-27'
+                  acquiree: CloudHealth Technologies
+                - date: '2018-11-06'
+                  acquiree: Heptio
+                  price: 550000000
+                - date: '2019-02-05'
+                  acquiree: AetherPal
+                - date: '2019-05-15'
+                  acquiree: Bitnami
+                - date: '2019-06-14'
+                  acquiree: Avi Networks
+                - date: '2019-07-18'
+                  acquiree: Bitfusion.io
+                - date: '2019-07-25'
+                  acquiree: Uhana
+                - date: '2019-08-16'
+                  acquiree: Veriflow
+                - date: '2019-08-20'
+                  acquiree: Intrinsic
+                - date: '2019-08-22'
+                  acquiree: Pivotal
+                  price: 2700000000
+                - date: '2019-10-08'
+                  acquiree: Carbon Black
+                  price: 2100000000
+                - date: '2020-01-21'
+                  acquiree: Nyansa
+                - date: '2020-05-13'
+                  acquiree: Octarine
+                - date: '2020-06-04'
+                  acquiree: Lastline
+                - date: '2020-07-02'
+                  acquiree: Datrium
+                - date: '2020-09-29'
+                  acquiree: SaltStack
+                - date: '2021-03-18'
+                  acquiree: Mesh7
+              parents:
+                - https://www.crunchbase.com/organization/dell-technologies
+              ticker: VMW
+              funding: 393500000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Cloud Management
+                - Enterprise Software
+                - Information Technology
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Python
+                  value: 454956
+                  color: '#3572A5'
+                - name: Shell
+                  value: 2901
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 2073
+                  color: '#384d54'
+              contributions: 2;2;4;14;5;4;2;7;6;3;2;8;13;6;1;3;6;2;1;3;3;4;6;3;0;1;0;1;2;9;2;0;1;0;1;0;3;0;0;4;11;0;0;1;4;0;2;6;1;3;6;5
+              firstWeek: 2020-12-27Z
+              stars: 630
+              license: Other
+              description: >-
+                Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and
+                Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including
+                human-readable, JSON, HTML, SPDX and more. 
+              latest_commit_date: '2021-12-16T05:45:20Z'
+              latest_commit_link: /tern-tools/tern/commit/723f43dcaae2f2f0a08a63e5e8de3938031a386e
+              release_date: '2021-12-16T05:49:29Z'
+              release_link: https://github.com/tern-tools/tern/releases
+              contributors_count: 66
+              contributors_link: https://github.com/tern-tools/tern/graphs/contributors
+            repos:
+              - url: https://github.com/tern-tools/tern
+                stars: 630
+            github_start_commit_data:
+              start_commit_link: /tern-tools/tern/commit/1c04e517a0b475bda5860a0ebc44c989aa0b9a1b
+              start_date: '2017-06-29T14:35:28Z'
+            yahoo_finance_data:
+              market_cap: 48173002752
+              effective_ticker: VMW
+            image_data:
+              fileName: tern.svg
+              hash: Ml1MtQjwgDuY2BQlB4ik1eIpW/VDi+cctuozTYgB87o=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-20T07:50:02.000Z
 twitter_options:
   count: 5
   since_id: '1387013727011102722'
