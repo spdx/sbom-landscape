@@ -1,0 +1,27 @@
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2021 Sebastian Crane <seabass-labrax@gmx.com>
+
+%YAML 1.1
+---
+name: Lint YAML files
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  lint:
+    name: Lint YAML files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install yamllint
+        run: sudo apt-get install yamllint
+      - name: Lint `landscape.yml`
+        run: yamllint ./landscape.yml
+      - name: Lint `.yamllint.yml`
+        run: yamllint ./.yamllint.yml
