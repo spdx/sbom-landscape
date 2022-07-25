@@ -1,0 +1,44 @@
+name: New tool for Landscape page
+description: Adding a new SPDX-compatible tool to the landscape page
+title: "New entry: "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: >
+        The name of the tool. Some tools are referred to by multiple
+        names; in that case, the name used in the tool's own marketing
+        material is a good start.
+    validations:
+      required: true
+
+  - type: input
+    id: homepage
+    attributes:
+      label: URL of homepage
+      description: >
+        If the tool doesn't have a homepage, the homepage of its online
+        documentation or the tool's main code repository would be a
+        suitable substitute.
+    validations:
+      required: false
+
+  - type: input
+    id: repository
+    attributes:
+      label: URL of main code repository
+      description: >
+        This can be left blank if the tool isn't open source.
+    validations:
+      required: false
+
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Other relevant information
+      description: >
+        Anything else that might be useful (e.g. contact details for the
+        tool).
+    validations:
+      required: false
