@@ -85,12 +85,12 @@ big_picture:
         left: 0
         color: rgb(126,115,14)
         fit_width: true
-      - type: Vertical Category
+      - type: HorizontalCategory
         category: SBOM SPDX Tools
         width: 220
         height: 300
-        top: 20
-        left: 755
+        top: 330
+        left: 0
         color: rgb(103,66,18)
         fit_width: true
       - type: LandscapeInfo
