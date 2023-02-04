@@ -28,7 +28,7 @@ relation:
   url: todo
   values:
     - id: member
-      label: SBOM SPDX Adopters
+      label: SBOM SPDX Supporters
       tag: TODO Group Member
       children: []
     - id: false
