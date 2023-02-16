@@ -23,6 +23,8 @@ landscape:
             logo: fosslight.svg
             twitter: https://twitter.com/LGUS
             crunchbase: https://www.crunchbase.com/organization/lg
+            extra:
+              version_url: https://kyverno.io/docs/writing-policies/verify-images/            
           - item:
             name: OSS Review Toolkit
             homepage_url: https://oss-review-toolkit.org/
