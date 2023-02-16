@@ -24,7 +24,7 @@ landscape:
             twitter: https://twitter.com/LGUS
             crunchbase: https://www.crunchbase.com/organization/lg
             extra:
-              version_url: https://kyverno.io/docs/writing-policies/verify-images/            
+              version_url: https://kyverno.io/docs/writing-policies/            
           - item:
             name: OSS Review Toolkit
             homepage_url: https://oss-review-toolkit.org/
