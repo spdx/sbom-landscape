@@ -9,7 +9,7 @@ landscape:
             name: Adobe (Adopter)
             homepage_url: https://www.adobe.com/
             logo: adobe.svg
-            crunchbase: https://www.crunchbase.com/organization/adobe 
+            crunchbase: https://www.crunchbase.com/organization/adobe  
   - category:
     name: SBOM SPDX Tools
     subcategories:
