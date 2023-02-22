@@ -21,7 +21,7 @@ landscape:
             homepage_url: https://fosslight.org/
             repo_url: https://github.com/fosslight/fosslight
             logo: fosslight.svg
-            twitter: https://twitter.com/LGUS
+            twitter: https://twitter.com/LGUS  
             crunchbase: https://www.crunchbase.com/organization/lg          
           - item:
             name: OSS Review Toolkit
