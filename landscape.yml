@@ -10,6 +10,31 @@ landscape:
             homepage_url: https://www.adobe.com/
             logo: adobe.svg
             crunchbase: https://www.crunchbase.com/organization/adobe
+          - item:
+            name: Anchore (Adopter)
+            homepage_url: https://anchore.com/
+            logo: anchore.svg
+            crunchbase: https://www.crunchbase.com/organization/anchore-inc
+          - item:
+            name: Apiiro
+            homepage_url: https://www.apiiro.com/
+            logo: apiiro.svg
+            crunchbase: https://www.crunchbase.com/organization/apiiro-ltd
+          - item:
+            name: Arm
+            homepage_url: https://www.arm.com/
+            logo: arm.svg
+            crunchbase: https://www.crunchbase.com/organization/arm 
+          - item:
+            name: Cisco
+            homepage_url: https://www.cisco.com/
+            logo: cisco.svg
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Dynatrace
+            homepage_url: https://www.dynatrace.com/
+            logo: dynatrace.svg
+            crunchbase: https://www.crunchbase.com/organization/dynatrace-software            
   - category:
     name: SBOM SPDX Tools
     subcategories:
