@@ -31,7 +31,7 @@ landscape:
             twitter: https://twitter.com/linuxfoundation
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: REUSE
+            name: REUSE.  
             homepage_url: https://reuse.software/
             repo_url: https://git.fsfe.org/reuse/tool
             logo: reuse.svg
