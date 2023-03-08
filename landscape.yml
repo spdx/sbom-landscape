@@ -11,7 +11,7 @@ landscape:
             logo: adobe.svg
             crunchbase: https://www.crunchbase.com/organization/adobe
           - item:
-            name: Anchore
+            name: Anchore (Adopter)
             homepage_url: https://anchore.com/
             logo: anchore.svg
             crunchbase: https://www.crunchbase.com/organization/anchore-inc
