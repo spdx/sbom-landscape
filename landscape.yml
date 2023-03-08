@@ -9,7 +9,7 @@ landscape:
             name: Adobe (Adopter)
             homepage_url: https://www.adobe.com/
             logo: adobe.svg
-            crunchbase: https://www.crunchbase.com/organization/adobe
+            crunchbase: https://www.crunchbase.com/organization/adobe  
   - category:
     name: SBOM SPDX Tools
     subcategories:
@@ -21,7 +21,7 @@ landscape:
             homepage_url: https://fosslight.org/
             repo_url: https://github.com/fosslight/fosslight
             logo: fosslight.svg
-            twitter: https://twitter.com/LGUS
+            twitter: https://twitter.com/LGUS  
             crunchbase: https://www.crunchbase.com/organization/lg          
           - item:
             name: OSS Review Toolkit
@@ -31,7 +31,7 @@ landscape:
             twitter: https://twitter.com/linuxfoundation
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: REUSE
+            name: REUSE.  
             homepage_url: https://reuse.software/
             repo_url: https://git.fsfe.org/reuse/tool
             logo: reuse.svg
@@ -45,7 +45,7 @@ landscape:
             twitter: https://twitter.com/anchore
             crunchbase: https://www.crunchbase.com/organization/anchore-inc
           - item:
-            name: Tern
+            name: Tern  
             homepage_url: https://github.com/tern-tools/tern
             repo_url: https://github.com/tern-tools/tern
             logo: tern.svg
