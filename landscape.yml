@@ -29,7 +29,12 @@ landscape:
             name: Cisco
             homepage_url: https://www.cisco.com/
             logo: cisco.svg
-            crunchbase: https://www.crunchbase.com/organization/cisco             
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Dynatrace
+            homepage_url: https://www.dynatrace.com/
+            logo: dynatrace.svg
+            crunchbase: https://www.crunchbase.com/organization/dynatrace-software            
   - category:
     name: SBOM SPDX Tools
     subcategories:
