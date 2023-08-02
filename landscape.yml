@@ -78,7 +78,7 @@ landscape:
           - item:
             name: Augur
             homepage_url: http://www.augurlabs.io/
-            repo_url: https://github.com/chaoss/augur/
+            repo_url: https://github.com/chaoss/augur
             logo: https://drive.google.com/file/d/1EzEpMiQqEuCnUYtWJjV6NkwXERZMYh4t/view?usp=share_link
             twitter: https://twitter.com/AugurLabs
             crunchbase: 
