@@ -53,7 +53,7 @@ landscape:
           - item:
             name: Kubernetes
             homepage_url: https://kubernetes.io/
-            logo: Kubernetes_logo.png
+            logo: Kubernetes_logo.svg
             crunchbase: https://www.crunchbase.com/organization/kubernetes   
   - category:
     name: SBOM SPDX Tools
