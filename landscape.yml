@@ -94,13 +94,16 @@ landscape:
             homepage_url: https://github.com/tern-tools/tern
             repo_url: https://github.com/tern-tools/tern
             logo: tern.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
             name: bom
             homepage_url: https://github.com/kubernetes-sigs/bom
             repo_url: https://github.com/kubernetes-sigs/bom
             logo: bom.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Augur
             homepage_url: http://www.augurlabs.io
             repo_url: https://github.com/chaoss/augur
             logo: Augurlabs.svg  
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
